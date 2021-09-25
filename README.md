@@ -1,12 +1,15 @@
 # Assignment-
 importing libraries
+
 for test image
+
 1) matplotlib.pyplot as plt - to creates a plotting figure
+
 2) matplotlib.image as mpim - to read images and display the images
 
-data1 image - read image which downloads from web 
+    data1 image - read image which downloads from web 
 
-data2 image - read image which downloads from web
+    data2 image - read image which downloads from web
 
 display the image using plot show
 
